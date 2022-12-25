@@ -106,6 +106,7 @@
         body {
             display: flex;
             flex-direction: column;
+            height: fit-content;
         }
         .card-group.py-3{
         width: 300px;
